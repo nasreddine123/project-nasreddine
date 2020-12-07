@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est A49C-8013
+
+ R‚pertoire de C:\Users\ASUS\Desktop\my project
+
+07/12/2020  19:40    <DIR>          .
+07/12/2020  19:40    <DIR>          ..
+07/12/2020  19:40                 0 test.1.txt
+               1 fichier(s)                0 octets
+              
+
